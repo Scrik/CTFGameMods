@@ -1,0 +1,8 @@
+name: CTFGameMods
+version: 1.0-SNAPSHOT
+
+author: joserobjr
+website: http://gamemods.com.br/
+
+main: br.com.gamemods.tutorial.ctf.CTFGameMods
+database: false
