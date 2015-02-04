@@ -1,1 +1,2 @@
 # CTFGameMods
+Plugin em desenvolvimento.
